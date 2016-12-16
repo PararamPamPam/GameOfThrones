@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChenkovEgor</string>
+    <string name="server_not_respond">Сервер не отвечает. Попробуйте позже.</string>
+    <string name="check_internet_connection">Необходимо подключение к интернету</string>
+    <string name="starks">Starks</string>
+    <string name="targaryens">Targaryens</string>
+    <string name="lannisters">Lannisters</string>
+</resources>
